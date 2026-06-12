@@ -1,13 +1,13 @@
 # Venture 02 Status
 
-Timestamp: 2026-06-12T22:08:34Z
+Timestamp: 2026-06-12T23:09:27Z
 Venture: Same-Day AI Microservice Menu
 State: TESTING
 Published exposure start: 2026-06-11T23:51:49-05:00
-Elapsed time: ~17 hours 17 minutes
+Elapsed time: ~18 hours 17 minutes
 Fair-test deadline: 2026-06-13T23:51:49-05:00 (48h minimum from launch; not yet eligible to mark DEAD)
 Public repo: https://github.com/maxgier2026-cmyk/same-day-ai-microservice-menu
-GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ (HTTP 200, verified 2026-06-12T22:08 UTC)
+GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ (HTTP 200, verified 2026-06-12T23:07 UTC)
 
 ## Iteration 1 (2026-06-12T00:22:00-05:00)
 
@@ -93,7 +93,18 @@ GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ 
 - Verified live GitHub API traction remains zero: 0 stars, 0 watchers/subscribers, 0 forks, 0 open issues, 0 discussions, 0 views, 0 clones.
 - No outreach was sent by Hermes. No buyer intent or payment evidence found. Revenue remains $0.
 
-## Current GitHub traction (verified 2026-06-12T22:08 UTC)
+## Iteration 14 (2026-06-12T23:09:27Z)
+
+- Added `START_HERE.md` — fast buyer route for choosing a fixed-price service, gathering facts, preserving compliance boundaries, and delivering editable same-day text.
+- Added `samples/small_business_ai_mini_audit_sample.md` — concrete sample deliverable format for the $150 business AI mini-audit lane.
+- Linked the new resources from `README.md` and GitHub Pages.
+- Created public GitHub Release `v0.1.0` as a downloadable/public proof surface: https://github.com/maxgier2026-cmyk/same-day-ai-microservice-menu/releases/tag/v0.1.0
+- Pushed commit `e9a0c0f`.
+- Re-verified GitHub Pages endpoint and sitemap return HTTP 200.
+- Verified live GitHub API traction remains zero: 0 stars, 0 watchers/subscribers, 0 forks, 0 open issues, 0 discussions, 0 views, 0 clones.
+- No outreach was sent by Hermes. No buyer intent or payment evidence found. Revenue remains $0.
+
+## Current GitHub traction (verified 2026-06-12T23:07 UTC)
 
 | Metric | Value | Status |
 |---|---:|---|
@@ -106,9 +117,10 @@ GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ 
 | Discussions | 0 | NO_TRACTION_YET |
 | Topics | 8 | SINCE_ITERATION_1 |
 | License | MIT | SINCE_ITERATION_1 |
-| Files count | 20+ | IMPROVED_ITERATION_13 |
-| GitHub Pages | LIVE | HTTP 200, verified 22:08 UTC |
+| Files count | 22+ | IMPROVED_ITERATION_14 |
+| GitHub Pages | LIVE | HTTP 200, verified 23:07 UTC |
 | robots.txt | LIVE | HTTP 200, verified 22:08 UTC |
+| Release | v0.1.0 | PUBLIC_RELEASE_CREATED_2026-06-12T23:09:27Z |
 
 Revenue: $0 verified (payment channel not yet verified)
 Expenses: $0
@@ -117,7 +129,7 @@ Net: $0
 
 ## Fair-test rule
 
-Do not declare dead before 48h live exposure plus one iteration (min 1 iteration met; now at 11). Deadline: 2026-06-13T23:51:49-05:00.
+Do not declare dead before 48h live exposure plus one iteration (min 1 iteration met; now at 14). Deadline: 2026-06-13T23:51:49-05:00.
 
 ## Maintenance checklist
 
@@ -135,5 +147,6 @@ Do not declare dead before 48h live exposure plus one iteration (min 1 iteration
 - [x] Add robots.txt for search engine sitemap discovery (iteration 11)
 - [x] Add social sharing metadata for cleaner manual-post previews (iteration 12)
 - [x] Add buyer intake forms and link from README/Pages (iteration 13)
+- [x] Add START_HERE, small-business AI mini-audit sample, and public GitHub release (iteration 14)
 - [ ] If payment channel becomes available, list same services there
 - [ ] Lee to post community templates manually — all currently READY_FOR_LEE_TO_POST
