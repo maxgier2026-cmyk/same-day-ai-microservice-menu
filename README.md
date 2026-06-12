@@ -30,6 +30,8 @@ AI disclosure: Service drafts use AI assistance plus compliance checks. Buyer-pr
 
 A buyer must provide their own facts and authorization. No private data, passwords, student personal details, fake reviews, fake claims, or platform-violating requests.
 
+Use [`BUYER_INTAKE_FORMS.md`](BUYER_INTAKE_FORMS.md) to submit complete facts for resume help, marketplace listings, small-business AI mini-audits, or school-supply outreach kits.
+
 ## Boundaries
 
 ✅ OK: Real resume facts, real marketplace listings, real business workflows, authorized school supply needs
