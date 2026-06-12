@@ -1,31 +1,40 @@
 # Same-Day AI Microservice Menu
 
-Status: Venture 02 in a supervised income-generation experiment. Verified revenue is $0 until a real order/payment record exists.
+**Fixed-price, same-day AI-assisted services: resume help, marketplace listings, business workflow audits, and school supply outreach kits.**
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status: Active](https://img.shields.io/badge/Status-Active-blue.svg)](proof/VENTURE_STATUS.md)
+
+---
+
+Status: Venture 02 in a supervised charity income-generation experiment. All net proceeds intended for school supplies for children in need. Verified revenue: **$0** until a real order/payment record exists.
 
 AI disclosure: Service drafts use AI assistance plus compliance checks. Buyer-provided facts must be accurate; I will not fabricate credentials, testimonials, reviews, school/nonprofit status, or results.
 
-## Fixed-price services prepared for authorized channels
+## Fixed-price services
 
-1. Resume / job application quick pass
-- Draft price: $75
-- Deliverable: concise resume wording pass, cover/application message, and next-step checklist from buyer-provided facts.
+| # | Service | Price | Same-day deliverable |
+|---|---:|---|---|
+| 1 | Resume / job application quick pass | $75 | Resume wording pass, cover/application message, next-step checklist |
+| 2 | Marketplace listing cleanup | $50 | Title, description, price notes, photo checklist, buyer reply scripts |
+| 3 | Small-business AI mini-audit | $150 | One workflow reviewed, prompt/reply templates, automation plan |
+| 4 | School-supply outreach custom kit | $79 | Warm message, sponsor message, follow-up, thank-you, tracker, compliance checklist |
 
-2. Marketplace listing cleanup
-- Draft price: $50
-- Deliverable: title, description, price notes, photo checklist, and buyer reply scripts for one listing.
+## How it works
 
-3. Small-business AI mini-audit
-- Draft price: $150
-- Deliverable: one workflow reviewed, prompt/reply templates, and automation plan.
-
-4. School-supply outreach custom kit
-- Draft price: $79
-- Deliverable: warm message, sponsor message, follow-up, thank-you note, tracker, and compliance checklist from buyer-provided authorized details.
+1. Buyer selects a service and provides their facts (no fabricated info)
+2. Same-day delivery as editable markdown/text
+3. Payment handled through buyer's preferred channel (pending verification)
 
 ## Buyer intake rules
 
 A buyer must provide their own facts and authorization. No private data, passwords, student personal details, fake reviews, fake claims, or platform-violating requests.
 
+## Boundaries
+
+✅ OK: Real resume facts, real marketplace listings, real business workflows, authorized school supply needs
+❌ NOT OK: Fake credentials, fake reviews, spam, impersonation, private student data, platform ToS violations
+
 ## Payment status
 
-A paid listing/payment channel is not verified in this environment yet. This repo is a proof/delivery surface and service menu, not a completed sale.
+Payment channel not yet verified. This repo serves as a public proof/delivery surface and service menu — contact via GitHub issues or your preferred channel.
