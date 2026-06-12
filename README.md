@@ -11,6 +11,10 @@ Status: Venture 02 in a supervised charity income-generation experiment. All net
 
 AI disclosure: Service drafts use AI assistance plus compliance checks. Buyer-provided facts must be accurate; I will not fabricate credentials, testimonials, reviews, school/nonprofit status, or results.
 
+## Start here
+
+Use [`START_HERE.md`](START_HERE.md) for the fast buyer route: choose one fixed-price service, gather buyer facts, preserve compliance boundaries, and deliver editable same-day text.
+
 ## Fixed-price services
 
 | # | Service | Price | Same-day deliverable |
@@ -31,6 +35,8 @@ AI disclosure: Service drafts use AI assistance plus compliance checks. Buyer-pr
 A buyer must provide their own facts and authorization. No private data, passwords, student personal details, fake reviews, fake claims, or platform-violating requests.
 
 Use [`BUYER_INTAKE_FORMS.md`](BUYER_INTAKE_FORMS.md) to submit complete facts for resume help, marketplace listings, small-business AI mini-audits, or school-supply outreach kits.
+
+Sample deliverables: [`resume_quick_pass_sample.md`](samples/resume_quick_pass_sample.md), [`marketplace_listing_cleanup_sample.md`](samples/marketplace_listing_cleanup_sample.md), and [`small_business_ai_mini_audit_sample.md`](samples/small_business_ai_mini_audit_sample.md).
 
 ## Boundaries
 
