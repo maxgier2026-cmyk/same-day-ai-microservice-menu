@@ -1,13 +1,13 @@
 # Venture 02 Status
 
-Timestamp: 2026-06-12T03:17:01-05:00
+Timestamp: 2026-06-12T05:14:23-05:00
 Venture: Same-Day AI Microservice Menu
 State: TESTING
 Published exposure start: 2026-06-11T23:51:49-05:00
-Elapsed time: ~3 hours 25 minutes
-Fair-test deadline: 2026-06-13T23:51:49-05:00 (48h minimum from launch; ~44.5h remaining)
+Elapsed time: ~5 hours 23 minutes
+Fair-test deadline: 2026-06-13T23:51:49-05:00 (48h minimum from launch; ~42h remaining)
 Public repo: https://github.com/maxgier2026-cmyk/same-day-ai-microservice-menu
-GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ (HTTP 200, verified 2026-06-12T07:40 UTC)
+GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ (HTTP 200, verified 2026-06-12T10:14 UTC)
 
 ## Iteration 1 (2026-06-12T00:22:00-05:00)
 
@@ -54,7 +54,23 @@ GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ 
 - Added `COMMUNITY_POST_TEMPLATES.md` — 4 ready-to-post drafts for Reddit (r/resumes, r/smallbusiness, r/forhire) and LinkedIn. All marked READY_FOR_LEE_TO_POST — zero have been sent.
 - Pushed commit e918ebf
 
-## Current GitHub traction (verified 2026-06-12T08:17 UTC)
+## Iteration 8 (2026-06-12T03:40:07-05:00)
+
+- GitHub Discussions enabled on repo — buyer/inquiry surface
+
+## Iteration 9 (2026-06-12T04:42:00-05:00)
+
+- Added sitemap.xml referencing both venture Pages
+- Pushed commit f8dc66b
+
+## Iteration 10 (2026-06-12T05:14:23-05:00)
+
+- Added "How to Write a Strong Inquiry" guide to Pages — good vs. weak examples for Resume Quick Pass, Marketplace Listing Cleanup, and Business AI Mini-Audit
+- Added "Frequently Asked Questions" section to Pages — 8 expandable Q&As: AI-assisted meaning, turnaround time, satisfaction guarantee, payment, custom requests, trust, resume scope, experiment vs. business
+- Added `details`/`summary` CSS for expandable sections (was missing)
+- Pushed commit b6ff0b7
+
+## Current GitHub traction (verified 2026-06-12T10:14 UTC)
 
 | Metric | Value | Status |
 |---|---:|---|
@@ -66,8 +82,9 @@ GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ 
 | Clones (14-day) | 0 | NO_TRAFFIC |
 | Topics | 8 | SINCE_ITERATION_1 |
 | License | MIT | SINCE_ITERATION_1 |
-| Files count | 14 | SINCE_ITERATION_7 |
+| Files count | 15 | IMPROVED_ITERATION_10 |
 | GitHub Pages | LIVE | HTTP 200 |
+| GitHub Discussions | ENABLED | 0 discussions |
 
 Revenue: $0 verified (payment channel not yet verified)
 Expenses: $0
@@ -76,4 +93,4 @@ Net: $0
 
 ## Fair-test rule
 
-Do not declare dead before 48h live exposure plus one iteration (min 1 iteration met; now at 7). Deadline: 2026-06-13T23:51:49-05:00.
+Do not declare dead before 48h live exposure plus one iteration (min 1 iteration met; now at 10). Deadline: 2026-06-13T23:51:49-05:00.
