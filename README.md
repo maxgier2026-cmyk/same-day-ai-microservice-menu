@@ -38,3 +38,7 @@ A buyer must provide their own facts and authorization. No private data, passwor
 ## Payment status
 
 Payment channel not yet verified. This repo serves as a public proof/delivery surface and service menu — contact via GitHub issues or your preferred channel.
+
+## See also
+
+- [AI Classroom Supply Toolkit](https://github.com/maxgier2026-cmyk/ai-classroom-supply-toolkit) — Venture 01: free outreach templates, budget calculator, wishlist guides for teachers and PTO/PTA volunteers.
