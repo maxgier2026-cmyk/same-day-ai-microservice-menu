@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/sitemap.xml
