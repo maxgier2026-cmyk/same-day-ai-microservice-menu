@@ -1,13 +1,13 @@
 # Venture 02 Status
 
-Timestamp: 2026-06-13T01:40:39Z
+Timestamp: 2026-06-13T04:10:31Z
 Venture: Same-Day AI Microservice Menu
 State: TESTING
 Published exposure start: 2026-06-11T23:51:49-05:00
-Elapsed time: ~20 hours 49 minutes
+Elapsed time: ~23 hours 18 minutes
 Fair-test deadline: 2026-06-13T23:51:49-05:00 (48h minimum from launch; not yet eligible to mark DEAD)
 Public repo: https://github.com/maxgier2026-cmyk/same-day-ai-microservice-menu
-GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ (HTTP 200, verified 2026-06-13T01:40 UTC)
+GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ (HTTP 200, verified 2026-06-13T04:10 UTC)
 
 ## Iteration 1 (2026-06-12T00:22:00-05:00)
 
@@ -127,7 +127,18 @@ GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ 
 - Verified live GitHub API traction remains zero: 0 stars, 0 watchers/subscribers, 0 forks, 0 open issues, 0 discussions, 0 views, 0 clones.
 - No outreach was sent by Hermes. No buyer intent or payment evidence found. Revenue remains $0.
 
-## Current GitHub traction (verified 2026-06-13T01:40 UTC)
+## Iteration 17 (2026-06-13T04:10:31Z)
+
+- Added `samples/marketplace_listing_before_after_sample.md` — concrete marketplace listing before/after sample with buyer-provided fact requirements, title options, rewritten description, photo checklist, pricing note template, reply scripts, and compliance boundaries.
+- Added `docs/marketplace-listing-before-after-sample.md` and updated `docs/sitemap.xml` so GitHub Pages has a direct lightweight route.
+- Linked the new sample from `README.md` and GitHub Pages.
+- Pushed commit `38ba027` to the public repo.
+- Verified Pages deployment completed successfully; Pages root, sitemap, and new marketplace sample route returned HTTP 200.
+- Verified raw new marketplace before/after sample returns HTTP 200.
+- Verified live GitHub API traction remains zero: 0 stars, 0 watchers/subscribers, 0 forks, 0 open issues, 0 discussions, 0 views, 0 clones.
+- No outreach was sent by Hermes. No buyer intent or payment evidence found. Revenue remains $0.
+
+## Current GitHub traction (verified 2026-06-13T04:10 UTC)
 
 | Metric | Value | Status |
 |---|---:|---|
@@ -140,11 +151,11 @@ GitHub Pages: https://maxgier2026-cmyk.github.io/same-day-ai-microservice-menu/ 
 | Discussions | 0 | NO_TRACTION_YET |
 | Topics | 8 | SINCE_ITERATION_1 |
 | License | MIT | SINCE_ITERATION_1 |
-| Files count | 28+ | IMPROVED_ITERATION_16 |
-| GitHub Pages | LIVE | HTTP 200, verified 01:40 UTC; Pages deployment run completed success |
+| Files count | 30+ | IMPROVED_ITERATION_17 |
+| GitHub Pages | LIVE | HTTP 200, verified 04:10 UTC; Pages deployment run completed success |
 | robots.txt | LIVE | HTTP 200, verified prior run; unchanged this run |
 | Release | v0.1.0 | PUBLIC_RELEASE_CREATED_2026-06-12T23:09:27Z |
-| New raw file | LIVE | `samples/resume_keyword_gap_sample.md` and `QUICK_TURNAROUND_DELIVERY_CHECKLIST.md` HTTP 200, verified 01:40 UTC |
+| New raw file | LIVE | `samples/marketplace_listing_before_after_sample.md` HTTP 200, verified 04:10 UTC |
 
 Revenue: $0 verified (payment channel not yet verified)
 Expenses: $0
@@ -153,12 +164,12 @@ Net: $0
 
 ## Fair-test rule
 
-Do not declare dead before 48h live exposure plus one iteration (min 1 iteration met; now at 16). Deadline: 2026-06-13T23:51:49-05:00.
+Do not declare dead before 48h live exposure plus one iteration (min 1 iteration met; now at 17). Deadline: 2026-06-13T23:51:49-05:00.
 
 ## Maintenance checklist
 
 - [x] Check repo visibility/availability — PUBLIC, accessible
-- [x] Check stars/watchers/issues/views/clones — 0 across all (verified 22:08 UTC)
+- [x] Check stars/watchers/issues/views/clones — 0 across all (verified 04:10 UTC)
 - [x] Improve discoverability — LICENSE, topics, README, SERVICE_MENU, samples, Pages, CHANGELOG, CONTRIBUTING, buyer template, Discussions
 - [x] Add GitHub Pages landing page for SEO (iteration 4)
 - [x] Add sample deliverables: resume quick pass, marketplace cleanup, AI workflow, business mini-audit (iteration 5)
@@ -174,5 +185,6 @@ Do not declare dead before 48h live exposure plus one iteration (min 1 iteration
 - [x] Add START_HERE, small-business AI mini-audit sample, and public GitHub release (iteration 14)
 - [x] Add one-hour service scripts and local-business reply-template sample (iteration 15)
 - [x] Add resume keyword-gap sample and quick turnaround delivery checklist (iteration 16)
+- [x] Add marketplace before/after sample and direct Pages route (iteration 17)
 - [ ] If payment channel becomes available, list same services there
 - [ ] Lee to post community templates manually — all currently READY_FOR_LEE_TO_POST
