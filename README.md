@@ -13,7 +13,7 @@ AI disclosure: Service drafts use AI assistance plus compliance checks. Buyer-pr
 
 ## Start here
 
-Use [`START_HERE.md`](START_HERE.md) for the fast buyer route: choose one fixed-price service, gather buyer facts, preserve compliance boundaries, and deliver editable same-day text.
+Use [`START_HERE.md`](START_HERE.md) for the fast buyer route: choose one fixed-price service, gather buyer facts, preserve compliance boundaries, and deliver editable same-day text. For lower-friction conversations, use [`ONE_HOUR_SERVICE_SCRIPTS.md`](ONE_HOUR_SERVICE_SCRIPTS.md) with $25-$50 entry offers.
 
 ## Fixed-price services
 
@@ -36,7 +36,7 @@ A buyer must provide their own facts and authorization. No private data, passwor
 
 Use [`BUYER_INTAKE_FORMS.md`](BUYER_INTAKE_FORMS.md) to submit complete facts for resume help, marketplace listings, small-business AI mini-audits, or school-supply outreach kits.
 
-Sample deliverables: [`resume_quick_pass_sample.md`](samples/resume_quick_pass_sample.md), [`marketplace_listing_cleanup_sample.md`](samples/marketplace_listing_cleanup_sample.md), and [`small_business_ai_mini_audit_sample.md`](samples/small_business_ai_mini_audit_sample.md).
+Sample deliverables: [`resume_quick_pass_sample.md`](samples/resume_quick_pass_sample.md), [`marketplace_listing_cleanup_sample.md`](samples/marketplace_listing_cleanup_sample.md), [`small_business_ai_mini_audit_sample.md`](samples/small_business_ai_mini_audit_sample.md), and [`local_business_reply_template_pack_sample.md`](samples/local_business_reply_template_pack_sample.md).
 
 ## Boundaries
 
